@@ -2,4 +2,5 @@
 
 ## Wireframe of the project
 [Wireframe](project_files/wireframes/wireframe.png)
-test1 
+test1
+<!-- ionut.test.commit -->
