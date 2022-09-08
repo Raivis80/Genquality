@@ -23,7 +23,9 @@
 # Site Overview
 Genquality is a website built as a project for September's Hackathon with Code Institute, Deloitte and Trust in Soda. The theme given was 'Closing the gender gap' and so we decided a good way to tackle this issue was with an educational and enlightening quiz, along with some resources and information on how the user can make a difference.
 
-## Goal
+
+
+# Goal
 The goal of our website is to see how aware the user really is about the gender gap. Some users might be shocked by some of the facts and statistics, while others may not. For those with less knowledge about the topic, we want to provide resources where they can learn more and also how they can help close the gap in their workplace and their life. The overall aim of this project is to bring awareness to the inequality in workplaces, each gender being affected in different ways.
 
 <hr>
@@ -71,7 +73,11 @@ The goal of our website is to see how aware the user really is about the gender 
 
 ## The Team
 
-# https://github.com/petrugio
+* https://github.com/petrugio
+* https://github.com/Raivis80
+* https://github.com/lukaszkukla
+* https://github.com/Tiyko
+* https://github.com/gracemcken
 
 
 
